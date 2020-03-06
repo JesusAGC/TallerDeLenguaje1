@@ -1,0 +1,11 @@
+C:\Users\J Glezz\source\repos\TL1_AgendaAsistente1\TL1_AgendaAsistente1\bin\x86\Debug\Agenda.mdb
+C:\Users\J Glezz\source\repos\TL1_AgendaAsistente1\TL1_AgendaAsistente1\bin\x86\Debug\TL1_AgendaAsistente1.exe.config
+C:\Users\J Glezz\source\repos\TL1_AgendaAsistente1\TL1_AgendaAsistente1\bin\x86\Debug\TL1_AgendaAsistente1.exe
+C:\Users\J Glezz\source\repos\TL1_AgendaAsistente1\TL1_AgendaAsistente1\bin\x86\Debug\TL1_AgendaAsistente1.pdb
+C:\Users\J Glezz\source\repos\TL1_AgendaAsistente1\TL1_AgendaAsistente1\bin\x86\Debug\TL1_AgendaAsistente1.xml
+C:\Users\J Glezz\source\repos\TL1_AgendaAsistente1\TL1_AgendaAsistente1\obj\x86\Debug\TL1_AgendaAsistente1.Form1.resources
+C:\Users\J Glezz\source\repos\TL1_AgendaAsistente1\TL1_AgendaAsistente1\obj\x86\Debug\TL1_AgendaAsistente1.Resources.resources
+C:\Users\J Glezz\source\repos\TL1_AgendaAsistente1\TL1_AgendaAsistente1\obj\x86\Debug\TL1_AgendaAsistente1.vbproj.GenerateResource.cache
+C:\Users\J Glezz\source\repos\TL1_AgendaAsistente1\TL1_AgendaAsistente1\obj\x86\Debug\TL1_AgendaAsistente1.exe
+C:\Users\J Glezz\source\repos\TL1_AgendaAsistente1\TL1_AgendaAsistente1\obj\x86\Debug\TL1_AgendaAsistente1.xml
+C:\Users\J Glezz\source\repos\TL1_AgendaAsistente1\TL1_AgendaAsistente1\obj\x86\Debug\TL1_AgendaAsistente1.pdb

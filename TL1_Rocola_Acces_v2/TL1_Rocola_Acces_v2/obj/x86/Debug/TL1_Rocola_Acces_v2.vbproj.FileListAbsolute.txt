@@ -1,0 +1,12 @@
+C:\Users\J Glezz\source\repos\TL1_Rocola_Acces_v2\TL1_Rocola_Acces_v2\bin\x86\Debug\TL1_Rocola.mdb
+C:\Users\J Glezz\source\repos\TL1_Rocola_Acces_v2\TL1_Rocola_Acces_v2\bin\x86\Debug\TL1_Rocola_Acces_v2.exe.config
+C:\Users\J Glezz\source\repos\TL1_Rocola_Acces_v2\TL1_Rocola_Acces_v2\bin\x86\Debug\TL1_Rocola_Acces_v2.exe
+C:\Users\J Glezz\source\repos\TL1_Rocola_Acces_v2\TL1_Rocola_Acces_v2\bin\x86\Debug\TL1_Rocola_Acces_v2.pdb
+C:\Users\J Glezz\source\repos\TL1_Rocola_Acces_v2\TL1_Rocola_Acces_v2\bin\x86\Debug\TL1_Rocola_Acces_v2.xml
+C:\Users\J Glezz\source\repos\TL1_Rocola_Acces_v2\TL1_Rocola_Acces_v2\obj\x86\Debug\TL1_Rocola_Acces_v2.vbprojAssemblyReference.cache
+C:\Users\J Glezz\source\repos\TL1_Rocola_Acces_v2\TL1_Rocola_Acces_v2\obj\x86\Debug\TL1_Rocola_Acces_v2.Form1.resources
+C:\Users\J Glezz\source\repos\TL1_Rocola_Acces_v2\TL1_Rocola_Acces_v2\obj\x86\Debug\TL1_Rocola_Acces_v2.Resources.resources
+C:\Users\J Glezz\source\repos\TL1_Rocola_Acces_v2\TL1_Rocola_Acces_v2\obj\x86\Debug\TL1_Rocola_Acces_v2.vbproj.GenerateResource.cache
+C:\Users\J Glezz\source\repos\TL1_Rocola_Acces_v2\TL1_Rocola_Acces_v2\obj\x86\Debug\TL1_Rocola_Acces_v2.exe
+C:\Users\J Glezz\source\repos\TL1_Rocola_Acces_v2\TL1_Rocola_Acces_v2\obj\x86\Debug\TL1_Rocola_Acces_v2.xml
+C:\Users\J Glezz\source\repos\TL1_Rocola_Acces_v2\TL1_Rocola_Acces_v2\obj\x86\Debug\TL1_Rocola_Acces_v2.pdb

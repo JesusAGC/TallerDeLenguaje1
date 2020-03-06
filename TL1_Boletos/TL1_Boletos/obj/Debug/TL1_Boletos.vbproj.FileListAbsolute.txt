@@ -1,0 +1,14 @@
+C:\Users\J Glezz\source\repos\TL1_Boletos\TL1_Boletos\obj\Debug\TL1_Boletos.Final_Ticket_Form.resources
+C:\Users\J Glezz\source\repos\TL1_Boletos\TL1_Boletos\obj\Debug\TL1_Boletos.Form1.resources
+C:\Users\J Glezz\source\repos\TL1_Boletos\TL1_Boletos\obj\Debug\TL1_Boletos.Images.resources
+C:\Users\J Glezz\source\repos\TL1_Boletos\TL1_Boletos\obj\Debug\TL1_Boletos.LoginForm.resources
+C:\Users\J Glezz\source\repos\TL1_Boletos\TL1_Boletos\obj\Debug\TL1_Boletos.Resources.resources
+C:\Users\J Glezz\source\repos\TL1_Boletos\TL1_Boletos\obj\Debug\TL1_Boletos.Ticket_Manager.resources
+C:\Users\J Glezz\source\repos\TL1_Boletos\TL1_Boletos\obj\Debug\TL1_Boletos.vbproj.GenerateResource.cache
+C:\Users\J Glezz\source\repos\TL1_Boletos\TL1_Boletos\obj\Debug\TL1_Boletos.vbprojAssemblyReference.cache
+C:\Users\J Glezz\source\repos\TL1_Boletos\TL1_Boletos\bin\Debug\TL1_Boletos.exe
+C:\Users\J Glezz\source\repos\TL1_Boletos\TL1_Boletos\bin\Debug\TL1_Boletos.pdb
+C:\Users\J Glezz\source\repos\TL1_Boletos\TL1_Boletos\bin\Debug\TL1_Boletos.xml
+C:\Users\J Glezz\source\repos\TL1_Boletos\TL1_Boletos\obj\Debug\TL1_Boletos.exe
+C:\Users\J Glezz\source\repos\TL1_Boletos\TL1_Boletos\obj\Debug\TL1_Boletos.xml
+C:\Users\J Glezz\source\repos\TL1_Boletos\TL1_Boletos\obj\Debug\TL1_Boletos.pdb

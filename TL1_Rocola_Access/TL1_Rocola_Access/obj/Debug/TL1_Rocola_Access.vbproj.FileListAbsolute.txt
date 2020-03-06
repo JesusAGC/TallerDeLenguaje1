@@ -1,0 +1,11 @@
+C:\Users\J Glezz\Documents\vs2019 proy\repos\TL1_Rocola_Access\TL1_Rocola_Access\bin\Debug\TL1_Rocola.mdb
+C:\Users\J Glezz\Documents\vs2019 proy\repos\TL1_Rocola_Access\TL1_Rocola_Access\bin\Debug\TL1_Rocola_Access.exe
+C:\Users\J Glezz\Documents\vs2019 proy\repos\TL1_Rocola_Access\TL1_Rocola_Access\bin\Debug\TL1_Rocola_Access.pdb
+C:\Users\J Glezz\Documents\vs2019 proy\repos\TL1_Rocola_Access\TL1_Rocola_Access\bin\Debug\TL1_Rocola_Access.xml
+C:\Users\J Glezz\Documents\vs2019 proy\repos\TL1_Rocola_Access\TL1_Rocola_Access\obj\Debug\TL1_Rocola_Access.vbprojAssemblyReference.cache
+C:\Users\J Glezz\Documents\vs2019 proy\repos\TL1_Rocola_Access\TL1_Rocola_Access\obj\Debug\TL1_Rocola_Access.Form1.resources
+C:\Users\J Glezz\Documents\vs2019 proy\repos\TL1_Rocola_Access\TL1_Rocola_Access\obj\Debug\TL1_Rocola_Access.Resources.resources
+C:\Users\J Glezz\Documents\vs2019 proy\repos\TL1_Rocola_Access\TL1_Rocola_Access\obj\Debug\TL1_Rocola_Access.vbproj.GenerateResource.cache
+C:\Users\J Glezz\Documents\vs2019 proy\repos\TL1_Rocola_Access\TL1_Rocola_Access\obj\Debug\TL1_Rocola_Access.exe
+C:\Users\J Glezz\Documents\vs2019 proy\repos\TL1_Rocola_Access\TL1_Rocola_Access\obj\Debug\TL1_Rocola_Access.xml
+C:\Users\J Glezz\Documents\vs2019 proy\repos\TL1_Rocola_Access\TL1_Rocola_Access\obj\Debug\TL1_Rocola_Access.pdb

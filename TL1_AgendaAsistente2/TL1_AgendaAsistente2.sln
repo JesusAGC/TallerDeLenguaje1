@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TL1_AgendaAsistente2", "TL1_AgendaAsistente2\TL1_AgendaAsistente2.vbproj", "{20EC3B84-6DF5-4D00-BB99-A2B4A5E2E291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20EC3B84-6DF5-4D00-BB99-A2B4A5E2E291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EC3B84-6DF5-4D00-BB99-A2B4A5E2E291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EC3B84-6DF5-4D00-BB99-A2B4A5E2E291}.Debug|x86.ActiveCfg = Debug|x86
+		{20EC3B84-6DF5-4D00-BB99-A2B4A5E2E291}.Debug|x86.Build.0 = Debug|x86
+		{20EC3B84-6DF5-4D00-BB99-A2B4A5E2E291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EC3B84-6DF5-4D00-BB99-A2B4A5E2E291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20EC3B84-6DF5-4D00-BB99-A2B4A5E2E291}.Release|x86.ActiveCfg = Release|x86
+		{20EC3B84-6DF5-4D00-BB99-A2B4A5E2E291}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C69B839-90ED-4C86-B6BD-4FD1E8983D3E}
+	EndGlobalSection
+EndGlobal

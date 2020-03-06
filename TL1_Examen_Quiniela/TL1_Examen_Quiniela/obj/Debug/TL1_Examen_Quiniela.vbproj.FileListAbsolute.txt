@@ -1,0 +1,12 @@
+C:\Users\J Glezz\source\repos\TL1_Examen_Quiniela\TL1_Examen_Quiniela\bin\Debug\TL1_Examen_Quiniela.exe
+C:\Users\J Glezz\source\repos\TL1_Examen_Quiniela\TL1_Examen_Quiniela\bin\Debug\TL1_Examen_Quiniela.pdb
+C:\Users\J Glezz\source\repos\TL1_Examen_Quiniela\TL1_Examen_Quiniela\bin\Debug\TL1_Examen_Quiniela.xml
+C:\Users\J Glezz\source\repos\TL1_Examen_Quiniela\TL1_Examen_Quiniela\obj\Debug\TL1_Examen_Quiniela.vbprojAssemblyReference.cache
+C:\Users\J Glezz\source\repos\TL1_Examen_Quiniela\TL1_Examen_Quiniela\obj\Debug\TL1_Examen_Quiniela.Form1.resources
+C:\Users\J Glezz\source\repos\TL1_Examen_Quiniela\TL1_Examen_Quiniela\obj\Debug\TL1_Examen_Quiniela.Resources.resources
+C:\Users\J Glezz\source\repos\TL1_Examen_Quiniela\TL1_Examen_Quiniela\obj\Debug\TL1_Examen_Quiniela.Quiniela_Form.resources
+C:\Users\J Glezz\source\repos\TL1_Examen_Quiniela\TL1_Examen_Quiniela\obj\Debug\TL1_Examen_Quiniela.vbproj.GenerateResource.cache
+C:\Users\J Glezz\source\repos\TL1_Examen_Quiniela\TL1_Examen_Quiniela\obj\Debug\TL1_Examen_Quiniela.exe
+C:\Users\J Glezz\source\repos\TL1_Examen_Quiniela\TL1_Examen_Quiniela\obj\Debug\TL1_Examen_Quiniela.xml
+C:\Users\J Glezz\source\repos\TL1_Examen_Quiniela\TL1_Examen_Quiniela\obj\Debug\TL1_Examen_Quiniela.pdb
+C:\Users\J Glezz\source\repos\TL1_Examen_Quiniela\TL1_Examen_Quiniela\obj\Debug\TL1_Examen_Quiniela.Resultado_Form.resources

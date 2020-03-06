@@ -1,0 +1,12 @@
+C:\Users\J Glezz\source\repos\TL1_App_Access_v1\TL1_App_Access_v1\bin\x86\Debug\VG_DB.mdb
+C:\Users\J Glezz\source\repos\TL1_App_Access_v1\TL1_App_Access_v1\bin\x86\Debug\TL1_App_Access_v1.exe.config
+C:\Users\J Glezz\source\repos\TL1_App_Access_v1\TL1_App_Access_v1\bin\x86\Debug\TL1_App_Access_v1.exe
+C:\Users\J Glezz\source\repos\TL1_App_Access_v1\TL1_App_Access_v1\bin\x86\Debug\TL1_App_Access_v1.pdb
+C:\Users\J Glezz\source\repos\TL1_App_Access_v1\TL1_App_Access_v1\bin\x86\Debug\TL1_App_Access_v1.xml
+C:\Users\J Glezz\source\repos\TL1_App_Access_v1\TL1_App_Access_v1\obj\x86\Debug\TL1_App_Access_v1.vbprojAssemblyReference.cache
+C:\Users\J Glezz\source\repos\TL1_App_Access_v1\TL1_App_Access_v1\obj\x86\Debug\TL1_App_Access_v1.Form1.resources
+C:\Users\J Glezz\source\repos\TL1_App_Access_v1\TL1_App_Access_v1\obj\x86\Debug\TL1_App_Access_v1.Resources.resources
+C:\Users\J Glezz\source\repos\TL1_App_Access_v1\TL1_App_Access_v1\obj\x86\Debug\TL1_App_Access_v1.vbproj.GenerateResource.cache
+C:\Users\J Glezz\source\repos\TL1_App_Access_v1\TL1_App_Access_v1\obj\x86\Debug\TL1_App_Access_v1.exe
+C:\Users\J Glezz\source\repos\TL1_App_Access_v1\TL1_App_Access_v1\obj\x86\Debug\TL1_App_Access_v1.xml
+C:\Users\J Glezz\source\repos\TL1_App_Access_v1\TL1_App_Access_v1\obj\x86\Debug\TL1_App_Access_v1.pdb

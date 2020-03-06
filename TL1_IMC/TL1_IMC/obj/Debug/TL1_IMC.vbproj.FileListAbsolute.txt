@@ -1,0 +1,12 @@
+C:\Users\J Glezz\source\repos\TL1_IMC\TL1_IMC\obj\Debug\TL1_IMC.vbprojAssemblyReference.cache
+C:\Users\J Glezz\source\repos\TL1_IMC\TL1_IMC\obj\Debug\TL1_IMC.Form1.resources
+C:\Users\J Glezz\source\repos\TL1_IMC\TL1_IMC\obj\Debug\TL1_IMC.Resources.resources
+C:\Users\J Glezz\source\repos\TL1_IMC\TL1_IMC\obj\Debug\TL1_IMC.vbproj.GenerateResource.cache
+C:\Users\J Glezz\source\repos\TL1_IMC\TL1_IMC\bin\Debug\TL1_IMC.exe
+C:\Users\J Glezz\source\repos\TL1_IMC\TL1_IMC\bin\Debug\TL1_IMC.pdb
+C:\Users\J Glezz\source\repos\TL1_IMC\TL1_IMC\bin\Debug\TL1_IMC.xml
+C:\Users\J Glezz\source\repos\TL1_IMC\TL1_IMC\obj\Debug\TL1_IMC.exe
+C:\Users\J Glezz\source\repos\TL1_IMC\TL1_IMC\obj\Debug\TL1_IMC.xml
+C:\Users\J Glezz\source\repos\TL1_IMC\TL1_IMC\obj\Debug\TL1_IMC.pdb
+C:\Users\J Glezz\source\repos\TL1_IMC\TL1_IMC\obj\Debug\TL1_IMC.Form2.resources
+C:\Users\J Glezz\source\repos\TL1_IMC\TL1_IMC\obj\Debug\TL1_IMC.Resource1.resources
